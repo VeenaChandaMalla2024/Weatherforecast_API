@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\veena dutch\\Assignment\\WeatherForecast.csproj": {}
+    "C:\\Users\\veena\\OneDrive\\Documents\\Veena\\ForecastAPI\\WeatherForecast.csproj": {}
   },
   "projects": {
-    "D:\\veena dutch\\Assignment\\WeatherForecast.csproj": {
+    "C:\\Users\\veena\\OneDrive\\Documents\\Veena\\ForecastAPI\\WeatherForecast.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\veena dutch\\Assignment\\WeatherForecast.csproj",
+        "projectUniqueName": "C:\\Users\\veena\\OneDrive\\Documents\\Veena\\ForecastAPI\\WeatherForecast.csproj",
         "projectName": "WeatherForecast",
-        "projectPath": "D:\\veena dutch\\Assignment\\WeatherForecast.csproj",
+        "projectPath": "C:\\Users\\veena\\OneDrive\\Documents\\Veena\\ForecastAPI\\WeatherForecast.csproj",
         "packagesPath": "C:\\Users\\veena\\.nuget\\packages\\",
-        "outputPath": "D:\\veena dutch\\Assignment\\obj\\",
+        "outputPath": "C:\\Users\\veena\\OneDrive\\Documents\\Veena\\ForecastAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\veena\\AppData\\Roaming\\NuGet\\NuGet.Config",
